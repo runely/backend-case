@@ -7,6 +7,7 @@ Hi and welcome to our case!
 We have the following user stories:
 
 _As a customer, I would like to see the status of my orders, so I know which is on the way_
+
 _As a customer, I want to know what I have previously paid for an item in an earlier order_
 
 ## Backend task
