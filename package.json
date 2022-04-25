@@ -1,0 +1,16 @@
+{
+  "name": "backend-case",
+  "version": "0.0.1",
+  "description": "Hi and welcome to our case!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Rune Moskvil Lyngås",
+    "email": "rune.moskvil.lyngaas@vtfk.no",
+    "url": "https://github.com/runely"
+  },
+  "license": "ISC"
+}
