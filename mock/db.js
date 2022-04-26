@@ -84,7 +84,6 @@ const _items = [
   {
     productId: '52f17ec9-9569-4185-ac31-0d333c0335e7',
     orderId: '9666e363-433d-4c39-b8b9-33a273f3ad92',
-
     name: 'Sydvang Montana Vandresekk Sort 85L',
     qty: 1,
     price: '1599',
