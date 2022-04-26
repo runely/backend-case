@@ -1,6 +1,6 @@
 # Solution for this case
 
-I have chosen to use [Azure Functions]() to create the API. **Azure Functions** is very convenient to use since all server and VM stuff is handled for you. All you have to think about is your code and how to secure your route
+I have chosen to use [Azure Functions](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/develop-serverless-apps) to create the API. **Azure Functions** is very convenient to use since all server and VM stuff is handled for you. All you have to think about is your code and how to secure your route
 
 The routes take one, some or all of these properties in the request body, and returns orders filtered by these properties. If `includeItems` is set to **true**, each order will also contain the items for that order
 ```json
