@@ -131,3 +131,7 @@ module.exports.getOrders = options => {
   if (!orders) return []
   return orders
 }
+
+module.exports.getItemsInOrder = orderId => {
+  return _items.filter(item => item.orderId === orderId)
+}
